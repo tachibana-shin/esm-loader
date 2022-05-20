@@ -1,5 +1,5 @@
 {
-	"name": "@esbuild-kit/esm-loader",
+	"name": "esm-loader-fix",
 	"version": "0.0.0-semantic-release",
 	"publishConfig": {
 		"access": "public"
